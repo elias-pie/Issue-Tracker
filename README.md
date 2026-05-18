@@ -1,4 +1,4 @@
-> [!INFO]
+>[!WARNING]
 > This was vibecoded by GPT 5.3 Codex and GPT 5.5
 
 # 3D Print Issue Tracker (Material UI)
