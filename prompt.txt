@@ -1,0 +1,1 @@
+Create me an issue tracker for tracking issues on 3D prints. This issue tracker must include user accounts and user groups for group issue trackers. It must allow uploading an image, adding a link, and a .3mf file for a profile. The issue tracker is a 3d print issue tracker. It also must include proposed solutions. Please use Material UI library for UI elements
